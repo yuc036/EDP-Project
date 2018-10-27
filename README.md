@@ -5,24 +5,22 @@
 - Returning Customers - One-click-add on Brand pages to add brand to preferred brands
 - Show saved brands and sizes on customer profile page
 
-**Note:** To start the _frontend_ server, clone the repository from https://github.com/yuc036/EDP-Project/edp18-profile-building-frontend.
+**Note:** To start the _frontend_ server, clone the repository from https://github.com/yuc036/EDP-Project/edp18-profile-building-frontend, and navigate into the `/edp18-profile-building-frontend` directory.
 
 ## Run add-brand locally
-- Clone this repository and navigate into the create-account directory
+- Navigate into the `/add-brand/server` directory
 - Install dependencies: `npm install`
-- Navigate into `/add-brand/server` directory
 - To run server: `node server.js`
 - In the browser, navigate to `locahost:8000`
 
-## Run add-brand locally
-- Clone this repository and navigate into the create-account directory
+## Run create-account locally
+- Navigate into the `/create-account/server` directory
 - Install dependencies: `npm install`
-- Navigate into `/create-account/server` directory
 - To run server: `node server.js`
 - In the browser, navigate to `locahost:9000`
 
 
 **Note:** To start the _backend_ server, clone the repository from https://github.com/yuc036/EDP-Project/edp18-profile-building-backend.
-- Clone this repository and navigate into the create-account directory
+- Navigate into the `/edp18-profile-building-backend` directory
 - Install dependencies: `mvn install`
 - To run server: `java -jar target/mcom-profile-0.0.1-SNAPSHOT.jar`
