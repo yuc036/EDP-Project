@@ -1,0 +1,1 @@
+(typeof(Marketshare.setCoreID6callback) == 'function') && Marketshare.setCoreID6callback('82021531173632254959832');

@@ -1,0 +1,1 @@
+window._vsq = window._vsq || []; window._vsq.push(['vsOpts', {site: 'macys', vip: 'vsvippc01.rightnowtech.com', poolId: '16421:2', vsEnabled: true, cacheDomain: 'macys.widget.custhelp.com'}]);

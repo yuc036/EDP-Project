@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "onSale": true,
+    "picture": "assets/images/nike.jpg",
+    "title": "Nike\r\n"
+  },
+  {
+    "id": "2",
+    "onSale": false,
+    "picture": "assets/images/adidas.jpg",
+    "title": "Adidas\r\n"
+  },
+  {
+    "id": "3",
+    "onSale": true,
+    "picture": "assets/images/dkny.png",
+    "title": "DKNY\r\n"
+  },
+  {
+    "id": "4",
+    "onSale": false,
+    "picture": "assets/images/free-people.png",
+    "title": "Free People\r\n"
+  },
+  {
+    "id": "5",
+    "onSale": false,
+    "picture": "assets/images/fossil.png",
+    "title": "Fossil\r\n"
+  },
+  {
+    "id": "6",
+    "onSale": false,
+    "picture": "assets/images/clarks.png",
+    "title": "Clarks\r\n"
+  },
+  {
+    "id": "7",
+    "onSale": false,
+    "picture": "assets/images/BCX.jpg",
+    "title": "BCX\r\n"
+  },
+  {
+    "id": "8",
+    "onSale": false,
+    "picture": "assets/images/charter-club.jpg",
+    "title": "Charter Club\r\n"
+  },
+  {
+    "id": "9",
+    "onSale": false,
+    "picture": "assets/images/bar-iii.jpg",
+    "title": "Bar III\r\n"
+  },
+  {
+    "id": "10",
+    "onSale": false,
+    "picture": "assets/images/anne-klein.png",
+    "title": "Anne Klein\r\n"
+  },
+  {
+    "id": "11",
+    "onSale": false,
+    "picture": "assets/images/city-chic.jpg",
+    "title": "City Chic\r\n"
+  },
+  {
+    "id": "12",
+    "onSale": false,
+    "picture": "assets/images/levian.jpg",
+    "title": "Le Vian\r\n"
+  },
+  {
+    "id": "13",
+    "onSale": false,
+    "picture":  "assets/images/ny.png",
+    "title": "NY Collection\r\n"
+  },
+  {
+    "id": "14",
+    "onSale": false,
+    "picture": "assets/images/tommy-hilfiger.png",
+    "title": "Tommy Hilfiger\r\n"
+  },
+  {
+    "id": "15",
+    "onSale": false,
+    "picture": "assets/images/puma.png",
+    "title": "Puma\r\n"
+  },
+  {
+    "id": "16",
+    "onSale": false,
+    "picture": "assets/images/levis.png",
+    "title": "Levi's\r\n"
+  },
+  {
+    "id": "17",
+    "onSale": false,
+    "picture": "assets/images/ugg.jpg",
+    "title": "UGG\r\n"
+  },
+  {
+    "id": "18",
+    "onSale": false,
+    "picture": "assets/images/natori.jpg",
+    "title": "Natori\r\n"
+  },
+  {
+    "id": "19",
+    "onSale": true,
+    "picture": "assets/images/givenchy.png",
+    "title": "Givenchy\r\n"
+  },
+  {
+    "id": "20",
+    "onSale": true,
+    "picture": "assets/images/vince-camuto.png",
+    "title": "Vince Camuto\r\n"
+  }
+]

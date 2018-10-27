@@ -23,3 +23,6 @@
 
 
 **Note:** To start the _backend_ server, clone the repository from https://github.com/yuc036/EDP-Project/edp18-profile-building-backend.
+- Clone this repository and navigate into the create-account directory
+- Install dependencies: `mvn install`
+- To run server: `java -jar target/mcom-profile-0.0.1-SNAPSHOT.jar`
